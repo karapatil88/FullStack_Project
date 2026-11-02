@@ -1,0 +1,13 @@
+# .NET
+BackendAPI/**/bin/
+BackendAPI/**/obj/
+BackendAPI/**/.vs/
+*.csproj.user
+
+# Node / Vite
+FrontendUI/node_modules/
+FrontendUI/dist/
+FrontendUI/.env
+
+# Editor
+.vscode/
