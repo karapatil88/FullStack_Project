@@ -1,0 +1,2 @@
+"# FullStackProject" 
+FullStack_App is a Enterprise-Grade Full-Stack Application | React 19 + ASP.NET Core 10 A modern, scalable, and maintainable full-stack application designed using enterprise-level architecture principles, Clean Architecture, SOLID principles, and industry best practices.

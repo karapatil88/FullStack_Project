@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\services\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\services\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\dto\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\dto\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|c:\\users\\karan.patil\\source\\repos\\employeebe\\employeebe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B209E103-B599-4026-85E3-E059FADFB835}|EmployeeBE\\EmployeeBE.csproj|solutionrelative:employeebe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeBE\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Entity\\Employee.cs",
+              "RelativeToolTip": "EmployeeBE\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:16:44.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeBE\\Program.cs",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Program.cs",
+              "RelativeToolTip": "EmployeeBE\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:14:38.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\DTO\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeBE\\DTO\\Employee.cs",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\DTO\\Employee.cs",
+              "RelativeToolTip": "EmployeeBE\\DTO\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T07:36:52.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Services\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeBE\\Services\\Interfaces\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Services\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "EmployeeBE\\Services\\Interfaces\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:53:44.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeBE\\appsettings.json",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\appsettings.json",
+              "RelativeToolTip": "EmployeeBE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-31T09:45:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeBE\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeBE\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:45:30.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeBE\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\karan.patil\\source\\repos\\EmployeeBE\\EmployeeBE\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeBE\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:42:47.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
